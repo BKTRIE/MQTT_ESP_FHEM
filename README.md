@@ -1,6 +1,7 @@
 # MQTT_ESP_FHEM
-eingedeutsches PubSubClient Programm, basierend auf diversen Quellen
+eingedeutsches PubSubClient Programm, basierend auf diversen Quellen.
 
+Folgender Code-Ausschnitt müsste in der fhem.cfg hinterlegt werden.
 ```
 # Zimmer ------------------------------------------------------------------
 
