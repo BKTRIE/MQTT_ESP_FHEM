@@ -33,7 +33,7 @@ void setup() {
 }
 
 void setup_wifi() {
-  delay(10);
+  WiFi.mode(WIFI_STA);
   Serial.println();
   Serial.print("Connecting to ");
   Serial.println(ssid);
